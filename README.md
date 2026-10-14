@@ -4,14 +4,6 @@ A structured command and lab reference built from hands-on Linux administration 
 
 ---
 
-## 📖 Reference Literature
-
-* **Title**: *Linux Pocket Guide: Essential Commands* (4th Edition, 20th Anniversary Release)
-* **Author**: Daniel J. Barrett
-* **Publisher**: O'Reilly Media, Inc., 2024
-* **ISBN**: 978-1-098-15796-8
-
----
 
 ## 📑 Module Index
 
