@@ -31,8 +31,4 @@ A structured command and lab reference built from hands-on Linux administration 
 
 ---
 
-## 🧭 How to Use
 
-* Commands marked `sudo` need root privileges.
-* Lab sections (Lab 15, 17, 21, 22, 23) modify disks and boot configuration. **Run them only in a VM or on a scratch disk.**
-* Sections titled **➕ Additional Essentials** contain important commands added beyond the original coursework notes.
